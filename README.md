@@ -10,7 +10,7 @@ All programs are compiled using `gcc -Wall -Werror -Wpedantic` and run without e
 ### What I learnt
 
 - how to declare, define, and update variables and functions in C
-- hot to use pointer arithmetic
+- how to use pointer arithmetic
 - how a memory allocator works
 - how to have user interaction with dynamic memory
 - how to read from `stdin` and write to `stdout` using `getchar` and `printf`
